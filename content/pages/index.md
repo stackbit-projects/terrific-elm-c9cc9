@@ -32,7 +32,6 @@ sections:
       najvažnijih koraka. Drago mi je da ste tu.&#xA;&#xA;
   - type: features_section
     title: Moji klijenti
-    subtitle: Š
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
