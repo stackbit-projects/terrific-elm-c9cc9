@@ -33,10 +33,48 @@ sections:
   - type: features_section
     title: Moji klijenti
     features:
-      - content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+      - content: >+
+
+          Razlozi zbog kojih se klijenti javljaju mogu biti različiti. Razlozi
+          se mogu ticati
+
+          privatnog, porodičnog ili poslovnog života. To mogu biti poteškoće u
+
+          emocionalnom životu, obrascima ponašanja koje ponavljamo, partnerskim
+          odnosima
+
+          ili općenito odnosima sa ljudima, ili životne okolnosti koje su suviše
+          stresne.
+
+          Ponekad to može biti pronalazak sopstvenih životnih vrijednosti i
+          ciljeva, te
+
+          unapređenje vlastitih potencijala i ličnog rasta.
+
+
+          Ovo su neki od najčešćih razloga zbog kojih se klijenti javljaju:
+
+
+          *   anksioznost
+
+
+          *   depresivno raspoloženje
+
+
+          *   stres
+
+
+          *   trauma
+
+
+          *   tugovanje
+
+
+          *   ljutnja
+
+
+          *   poteškoće u partnerskim i drugim odnosima
+
         actions:
           - label: See Writing Samples
             url: /faq
