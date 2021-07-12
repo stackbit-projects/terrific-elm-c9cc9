@@ -88,6 +88,7 @@ sections:
     align: center
     background_color: none
     section_id: Moji klijenti
+    subtitle: Psihološko savjetovanje
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
