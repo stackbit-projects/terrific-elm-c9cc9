@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Dobro došli!
     actions:
-      - label: Contact Me
+      - label: Kontaktirajte me
         url: /contact
         style: primary
     image: images/hero.png
