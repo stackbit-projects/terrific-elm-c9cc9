@@ -31,7 +31,7 @@ sections:
       poteškoće i odlučite se za&#xA;savjetovanje. To je prvi i jedan od
       najvažnijih koraka. Drago mi je da ste tu.&#xA;&#xA;
   - type: features_section
-    title: Klijenti
+    title: Moji klijenti
     subtitle: What I do
     features:
       - title: Content Creation
