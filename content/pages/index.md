@@ -20,6 +20,16 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     section_id: Dobro došli!
+    content: >
+      ##### Svi se ponekad nađemo u fazi života kada postane preteško, prebolno,
+      prezahtjevno.&#xA;Osjećamo da smo zaglavljeni u datim okolnostima ili
+      jednostavno želimo da napravimo&#xA;napredak u privatnom ili poslovnom
+      životu. Savjetovanje je proces koji može u&#xA;tome pomoći. 
+
+
+      ##### &#xA;Vjerovatno je bilo potrebno neko vrijeme da prepoznate prisutne
+      poteškoće i odlučite se za&#xA;savjetovanje. To je prvi i jedan od
+      najvažnijih koraka. Drago mi je da ste tu.&#xA;&#xA;
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
