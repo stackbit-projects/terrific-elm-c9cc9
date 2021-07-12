@@ -33,8 +33,7 @@ sections:
   - type: features_section
     title: Moji klijenti
     features:
-      - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
+      - subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
